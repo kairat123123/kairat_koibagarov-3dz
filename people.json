@@ -1,0 +1,10 @@
+{
+    "people": [
+        { "name": "John Doe", "age": 25, "profession": "Engineer" },
+        { "name": "Jane Smith", "age": 30, "profession": "Doctor" },
+        { "name": "Mark Johnson", "age": 40, "profession": "Teacher" },
+        { "name": "Michel Linton", "age": 50, "profession": "Police" },
+        { "name": "Stefani Markus", "age": 30, "profession": "Designer" },
+        { "name": "Alice Clai", "age": 20, "profession": "Driver" }
+    ]
+}
